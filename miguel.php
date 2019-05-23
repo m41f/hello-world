@@ -1,3 +1,3 @@
 <?php
-echo 'Miguel';
+echo 'Miguel lo ha modificado';
 ?>
